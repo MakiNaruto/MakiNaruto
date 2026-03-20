@@ -37,7 +37,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makinaruto&layout=compact&card_width=500)
 ![MakiNaruto's GitHub stats](https://github-readme-stats.vercel.app/api?username=makinaruto&show_icons=true&card_width=500)
 
-<h3 align="left">Leetcode</h3>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/makinaruto?theme=light&font=Sunflower&ext=heatmap&site=cn&width=500)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
